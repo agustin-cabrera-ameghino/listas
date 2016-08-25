@@ -17,12 +17,11 @@ public class CreacionDeWrapListTest {
         Assert.assertEquals(listaDeNumeros.lista, lista);
 
     }
-/*
     @Test
-    public void crearMiListaDeNumeros(){
+    public void crearMiListaString(){
         List<String> lista = Arrays.asList("casa", "hola", "Chau");
         MiLista listaDeNumeros = new MiLista(lista);
 
-        Assert.assertArrayEquals(listaDeNumeros.lista, lista);
-    }*/
+        Assert.assertEquals(listaDeNumeros.lista, lista);
+    }
 }
