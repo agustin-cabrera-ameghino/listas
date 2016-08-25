@@ -7,6 +7,7 @@ import java.util.Arrays;
  * Created by damian on 17/08/16.
  */
 public class BuscarElementoEnListaTest {
+/*
 
     @Test
     public void existeNumero(){
@@ -49,5 +50,6 @@ public class BuscarElementoEnListaTest {
         Assert.assertFalse(lista.existeString("no existo en esta lista"));
 
     }
+*/
 
 }
